@@ -7,5 +7,4 @@ Furthermore, importing statsmodels to analyze the value of a dependent variable.
 In conclusion, adding the new column to create a numerical value for male & female enabled me to add numerical information to
 the R-square value.
 
-Choosing to only have exercise, hours, gender_val R-Squared experienced an increase change by .001. Consequently,
-the change was not different from only utilizing exercise and hours. 
+Choosing to only have exercise, hours, and gender_val converted the R-Squared outcome to experience a increase by .001. 
